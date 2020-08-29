@@ -1,4 +1,4 @@
-# pandoc
+# pandoc-docx-style-template
 
 This repository contains a docx-style template that you can refer to when converting from markdown to docx using pandoc.
 
